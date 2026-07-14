@@ -1,0 +1,6 @@
+{
+  "name": "Village_ PriceList & Calculator",
+  "description": "Official social networks, links, and community page for pixel artist Village_ with ambient music and low-res dithered background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
