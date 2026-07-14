@@ -478,7 +478,7 @@ export default function App() {
       nameRu: 'Поддержать',
       nameEn: 'Donate',
       icon: <Heart className="w-5 h-5 text-rose-400 animate-pulse" />,
-      url: 'https://www.donationalerts.com/r/villagelsc',
+      url: 'https://pay.cloudtips.ru/p/4e44edcb',
       color: 'border-rose-500/25 text-rose-400 bg-[#061430]/75 hover:bg-[#0c2452]/90 hover:border-rose-400/55',
       hoverColor: 'hover:text-rose-300',
       glowColor: 'shadow-[0_0_20px_rgba(244,63,94,0.25)]',
