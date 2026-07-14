@@ -27,7 +27,7 @@ const pathFixerPlugin = () => ({
 
 export default defineConfig(() => {
   return {
-    base: '/', 
+    base: '/village-social.github.io/', 
     plugins: [pathFixerPlugin(), react(), tailwindcss()],
     resolve: {
       alias: {
